@@ -1,5 +1,5 @@
-package go_greetings_module
+package gogreetingsmodule
 
 func Greetings() string {
-	return "Hello"
+	return "Hello World"
 }
