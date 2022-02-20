@@ -1,5 +1,5 @@
 package gogreetingsmodule
 
-func Greetings() string {
-	return "Hello World"
+func Greetings(name string) string {
+	return "Hello " + name
 }
